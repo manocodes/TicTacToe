@@ -18,8 +18,8 @@ def printGuide():
     print('\n(Press D for draw...)\n')
 
 print('\n\n' + "=" * 100)
-print('\nWelcome to the TicTacToe game created by Thaththa for Sen and Minoli')
-print('Playing this game is easy, just pick your options from the list below')
+print('\nWelcome to our super simple TicTacToe game!...')
+print('Playing this game is easy, once you pick the player names, just pick your options from the list below')
 
 player1 = input('\nEnter who will Play with X: ')
 print('Ok!, ' + player1 + ' will play with X. ')
