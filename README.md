@@ -1,2 +1,3 @@
 # TicTacToe
 An ultra simple unfinished TicTacToe game written in Python - please help me improve it!...
+(got the basics from the Book "Automate the Boring Stuff with Python" by Al Sweigart.)
